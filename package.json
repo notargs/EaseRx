@@ -3,6 +3,5 @@
   "version": "0.0.1",
   "displayName": "EaseRx",
   "unity": "2019.3",
-  "description": "Minimum easing library for UniRx",
-  "dependencies": { }
+  "description": "Minimum easing library for UniRx"
 }

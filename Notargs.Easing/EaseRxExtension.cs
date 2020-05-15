@@ -1,9 +1,9 @@
 using System;
-using UnityEngine;
-using Unity.Mathematics;
 using UniRx;
+using Unity.Mathematics;
+using UnityEngine;
 
-namespace EaseRx.Runtime
+namespace Notargs.Easing
 {
     public static class EaseRxExtension
     {

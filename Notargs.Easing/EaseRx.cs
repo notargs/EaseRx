@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections;
-using UnityEngine;
 using UniRx;
+using UnityEngine;
 
-namespace EaseRx.Runtime
+namespace Notargs.Easing
 {
     public static class EaseRx
     {

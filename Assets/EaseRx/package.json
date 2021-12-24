@@ -1,6 +1,6 @@
 {
-  "name": "notargs.easerx",
-  "version": "1.0.0",
+  "name": "com.notargs.easerx",
+  "version": "1.0.1",
   "displayName": "EaseRx",
   "unity": "2021.2.7",
   "description": "Minimum easing library for UniRx",

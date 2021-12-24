@@ -3,7 +3,7 @@ EaseRx is UniRx friendly simple easing library.
 
 ## Using
 Add this snippet to package manager.
-```
+```json
 "com.notargs.easerx": "https://github.com/notargs/EaseRx.git?path=/Assets/EaseRx#v1.0.2"
 ```
 
